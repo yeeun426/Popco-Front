@@ -145,7 +145,7 @@ POPCO는 사용자가 자신만의 OTT 콘텐츠 취향을 발견하고, 개인�
         </a>
         <div style="height:45px"></div>
          <hr/>
-        <p style="font-size:10px;"># 제작중</p>
+        <p>메인 페이지 <br>전체 리스트 페이지 <br> 이벤트 퀴즈 페이지 </p>
       </td>
       <td align="center" valign="top">
         <a href="https://github.com/zeromin41">
